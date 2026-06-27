@@ -17,7 +17,7 @@ BOT_TOKEN = "8599348042:AAHDc0qLLbPF2jxUx-z06UugaK1uye1vrt0"
 API_BASE_URL = os.environ.get("API_BASE_URL", "https://mero-host.onrender.com")
 
 # إيدي الأدمن على تليجرام
-ADMIN_TELEGRAM_IDS = [7970883512]
+ADMIN_TELEGRAM_IDS = [6099048919]
 
 # معلومات المطور
 DEVELOPER_INFO = "🛠 طُوِّر بواسطة: *ᗴᒪᗰOᗪᗰᗴᑎ*\n📬 تواصل: @I_tt_6"
